@@ -1,0 +1,79 @@
+Inicio-dia
+1 - Ao acordar eu abro os olhos.
+2 - Faço alongamentos dos músculos.
+3 - Dou bom dia para os meus gatos.
+4 - Me levanto.
+5 - Vou ao Banheiro.
+6 - Preciso fazer alguma necessidade fisiológica?
+7 - SIM - Eu faço a minha necessidade fisiológica e em seguida vou para a pia e abro a torneira para lavar as mãos e o rosto.
+8 - NÂO - Eu não faço a minha necessidade fisiológica e vou direto para a pia e abro a torneira para lavar o rosto.
+9 - Pego a escova de dentes e a pasta.
+10 - Abro a pasta de dente e aperto para que saia a pasta e coloco na escova de dente.
+11 - Molho um pouco a pasta de dente que está na escova.
+12 - Levo a escova até a boca e começo a escovar os dentes.
+13 - Ao terminar eu lavo a escova.
+14 - Repito esses procedimentos 2 vezes.
+15 - Coloco um pouco de água na boca.
+16 - Faço bochechos e cuspo a água na pia.
+17 - Fim dessa repetição.
+18 - Enxugo o meu rosto.
+19 - Eu deixo o banheiro e fecho a porta.
+20 - Eu deixo meu quarto e vou para a cozinha.
+21 - Pego água e coloco em uma cafeteira e levo ao fogão.
+22 - Acendo a boca do fogão soltando o gás específico da boca e clico no acendedor.
+23 - Deixo a água ferver.
+24 - Coloco comida dos gatos.
+25 - Preparo um sanduiche de queijo com presunto.
+26 - Levo esse sanduiche para o microondas.
+27 - Pego a outra cafeteira, o filtro de papel e o recipiente que coloca o filtro(Esqueci o nome)
+28 - Pego o Pote que contém o pó de café.
+30 - Coloco o filtro no recipiente.
+31 - Coloco o recipiente na cafeteira.
+32 - Coloco o pó de café no filtro. Coloco 3 colheres.
+33 - Desligo o fogo da água que está fervendo.
+34 - Pego a água que está fervendo e coloco no pó.
+35 - Espero escorrer toda a água.
+36 - Tiro recipiente.
+37 - Ligo a outra boca do fogão onde está o café.
+38 - Deixo o café ferver até subir um pouco.
+39 - Desligo o fogo.
+40 - Pego a garrafa térmica.
+41 - Abro e tiro a tampa.
+42 - Coloco o café dentro da garrafa.
+43 - Fecho a garrafa colocando a tampa.
+44 - Pego uma xicara limpa.
+45 - Abro um pouco a garrafa.
+46 - Coloco o café.
+47 - Fecho a tampa da garrafa.
+48 - No microondas eu esquento o sanduiche colocando o tempo de 30 segundos.
+49 - Tiro o sanduiche do microondas.
+50 - Coloco açucar no café e mexo.
+51 - Verifico se está bom de açucar
+52 - SIM - Pego café e o sanduiche e vou para o quarto.
+53 - NÃO - Coloco açucar até ficar bom.
+54 - No quarto eu coloco o café e o sanduiche em cima da bancada.
+55 - Sento na cadeira gamer.
+56 - Pego o controle da tv e ligo a tv.
+57 - Coloco um video no Youtube para ir assistindo enquanto tomo café.
+58 - Repito bebendo café enquanto tiver café na xicara.
+59 - Repito comendo sanduiche enquanto tiver sanduiche.
+60 - Ao terminar o café da manhã levo a xicara e o prato para a cozinha.
+61 - Volto para o quarto e ligo o computador.
+62 - Começo o dia de trabalho.
+63 - Enquanto tiver trabalho vou trabalhando ou até dar meio dia.
+64 - Chegou meio dia e peço almoço pelo ifood.
+65 - Coloco comida dos gatos.
+66 - Chega o almoço e é hora de almoçar.
+67 - Faço um breve repouso.
+68 - 14h retorno ao trabalho
+69 - Enquanto tiver trabalho, eu sigo trabalhando até as 18h.
+70 - As 18h encerro o dia de trabalho.
+71 - Peço a janta.
+72 - Coloco a comida dos gatos.
+73 - Tomo banho.
+74 - Eu janto.
+75 - Faço Live no Youtube.
+76 - Encerro a live do Youtube
+76 - Escovo os dentes.
+77 - Vou para cama dormir.
+Fim-dia
