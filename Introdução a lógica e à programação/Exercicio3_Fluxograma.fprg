@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="amiga"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-07-13 06:04:39 "/>
+        <attribute name="created" value="YW1pZ2E7TUFRVUlOQS1HQU1FUjsyMDIxLTA3LTEzOyIwNTo0ODo1NiAiOzI2NDM="/>
+        <attribute name="edited" value="YW1pZ2E7TUFRVUlOQS1HQU1FUjsyMDIxLTA3LTEzOyIwNjowNDozOSAiOzE7Mjc0NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, mensagem" type="String" array="False" size=""/>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Informe o nome do aluno: &quot;" newline="False"/>
+            <input variable="nome"/>
+            <output expression="&quot;Informe a nota 1 do aluno: &quot;" newline="False"/>
+            <input variable="nota1"/>
+            <output expression="&quot;Informe a nota 2 do aluno: &quot;" newline="False"/>
+            <input variable="nota2"/>
+            <output expression="&quot;Informe a nota 3 do aluno: &quot;" newline="False"/>
+            <input variable="nota3"/>
+            <output expression="&quot;Informe a nota 4 do aluno: &quot;" newline="False"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <if expression="media &gt;= 7">
+                <then>
+                    <assign variable="mensagem" expression="&quot;O aluno &quot;&amp; nome &amp; &quot; tem a m&#233;dia &quot; &amp; media &amp; &quot; e est&#225; Aprovado!&quot;"/>
+                </then>
+                <else>
+                    <if expression="media &gt; 4">
+                        <then>
+                            <assign variable="mensagem" expression="&quot;O aluno &quot;&amp; nome &amp; &quot; tem a m&#233;dia &quot; &amp; media &amp; &quot; e est&#225; em Recupera&#231;&#227;o!&quot;"/>
+                        </then>
+                        <else>
+                            <assign variable="mensagem" expression="&quot;O aluno &quot;&amp; nome &amp; &quot; tem a m&#233;dia &quot; &amp; media &amp; &quot; e est&#225; Reprovado!&quot;"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <output expression="mensagem" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

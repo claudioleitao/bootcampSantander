@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="amiga"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-07-13 06:42:18 "/>
+        <attribute name="created" value="YW1pZ2E7TUFRVUlOQS1HQU1FUjsyMDIxLTA3LTEzOyIwNjoyNzo1MiAiOzI2Mzc="/>
+        <attribute name="edited" value="YW1pZ2E7TUFRVUlOQS1HQU1FUjsyMDIxLTA3LTEzOyIwNjo0MjoxOCAiOzE7Mjc0NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="tabNove, numero" type="Integer" array="False" size=""/>
+            <assign variable="tabNove" expression="9"/>
+            <assign variable="numero" expression="0"/>
+            <while expression="numero &lt;= tabNove + 1">
+                <output expression="tabNove &amp; &quot; x &quot; &amp; numero &amp; &quot; = &quot; &amp; tabNove * numero" newline="True"/>
+                <assign variable="numero" expression="numero + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
