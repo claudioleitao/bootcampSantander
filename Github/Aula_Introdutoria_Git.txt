@@ -1,0 +1,18 @@
+Porque aprender a usar o git?
+R - Controlar as versões dos arquivos jogando em pastas diferentes para que possamos manter salvo para poder fazer backups caso tenha a necessidade de acessar.
+
+O que é git?
+R - O git é um software de gerenciamento de versionamento de código que ajuda a criar e a monitorar diversas verções de arquivos de código dentro de nossa máquina
+
+Para que serve o git?
+R - O git serve para realizar um controle de versão de arquivos de códigos.
+
+Controle de versão
+Armazenamento em nuvem
+Trabalho em equipe
+Melhorar seu código
+Reconhecimento
+
+O software não é feito por um homem só e sim colaborativo
+
+
